@@ -1,8 +1,8 @@
 //
-//  main.cpp
-//  TicTacToe
+// 
+//  Basic TicTacToe withOut AI
 //
-//  Created by Raviteja Bejgum on 29/07/16.
+//  Created by raviteja1452 on 29/07/16.
 //  Copyright © 2016 Raviteja Bejgum. All rights reserved.
 //
 
@@ -10,6 +10,7 @@
 
 using namespace std;
 
+// Board Class
 class Board{
     private:
         int winPositions[8][3]={
@@ -111,6 +112,8 @@ class Board{
     
 };
 
+
+// Player Class
 class Player{
     private:
         char piece;
@@ -147,6 +150,8 @@ class Player{
         }
 };
 
+
+// Game class
 class Game{
     private:
         Player *player_x,*player_o,*current_player;
@@ -202,6 +207,8 @@ class Game{
         }
 };
 
+
+// Main 
 int main(int argc, const char * argv[]) {
     // Hello
     cout << "Hello .. Welcome to TicTacToe in C++!\n";
