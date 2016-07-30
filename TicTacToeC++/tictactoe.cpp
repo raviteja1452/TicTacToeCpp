@@ -1,9 +1,8 @@
-//
-// 
+
 //  Basic TicTacToe withOut AI
 //
-//  Created by raviteja1452 on 29/07/16.
-//  Copyright © 2016 Raviteja Bejgum. All rights reserved.
+//  RationalScripts
+//  Copyright © 2016 RationalScripts
 //
 
 #include <iostream>
