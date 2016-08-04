@@ -1,9 +1,11 @@
 #include<iostream>
 using namespace std;
 
+// We are magicians
 // Evaluation Function used in TicTacToe Game
 // Raviteja Bejgum .. ..  RationalScripts
 // Reference .. GeekforGeeks
+
 int evaluate(char board[3][3]){
 	for(int i=0;i < 3;i++){
 		if((board[i][0] != '_') && (board[i][0]==board[i][1]) && (board[i][2]==board[i][1])){
@@ -41,7 +43,7 @@ int evaluate(char board[3][3]){
 }
 int main(void){
 	// Considering TicTacToe is a 3*3 board, taking a char 3*3 array;
-	char tboard[3][3] ={
+	char board[3][3] ={
 		{'x','o','x'},
 		{'_','x','_'},
 		{'x','_','_'}
