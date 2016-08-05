@@ -48,7 +48,7 @@ int main(void){
 		{'_','x','_'},
 		{'x','_','_'}
 	};
-	int value = evaluate(tboard);
+	int value = evaluate(board);
 	cout<<"The Value of this board :"<<value<<endl;
 	return 0;
 }
