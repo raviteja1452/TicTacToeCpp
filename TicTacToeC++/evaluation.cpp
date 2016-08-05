@@ -33,9 +33,9 @@ int evaluate(char board[3][3]){
 		}
 	}
 	if((board[0][2] != '_') && (board[0][2]==board[1][1]) && (board[2][0]==board[1][1])){
-		if(board[0][0] == 'x'){
+		if(board[0][2] == 'x'){
 			return 10;		
-		}else if(board[0][0] =='o'){
+		}else if(board[0][2] =='o'){
 			return -10;
 		}
 	}
