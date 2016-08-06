@@ -14,6 +14,13 @@ TicTacToe in C++
 6) alphabeta_pruning.cpp for explaining how alphabeta pruning works , with an example.
 
 7) tictactoe_alphabeta_pruning.cpp is an implementation of  3*3 tictactoe with alphabeta pruning involved.. Infact toughest bot is fighting here, It don't want to loss anyway...
-                  ****** TicTacToe *********
+
+                  ******** TicTacToe *********
+
+8) Tasks pending, designing a 5*5 TicTacToe 
+
+9) Including Levels in game and asking user to select the level he wish to play.
+
+10) Designing a generic n*n TicTacToe where the user selects the value of n, any way will be limited to certain value between 2 and 20.
  
                        # RationalScripts
