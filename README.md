@@ -1,4 +1,4 @@
-# TicTacToeC-
+# TicTacToeC++
 TicTacToe in C++
 
 1) Tictactoe.cpp is a multi player Tictactoe game with no AI involved
@@ -11,6 +11,9 @@ TicTacToe in C++
 
 5) TicTacToe_ai.cpp is a program which uses the minimax algorithm, one player is user and the other player is computer. It uses AI..
 
- ****** TicTacToe *********
+6) alphabeta_pruning.cpp for explaining how alphabeta pruning works , with an example.
+
+7) tictactoe_alphabeta_pruning.cpp is an implementation of  3*3 tictactoe with alphabeta pruning involved.. Infact toughest bot is fighting here, It don't want to loss anyway...
+                  ****** TicTacToe *********
  
- # RationalScripts
+                       # RationalScripts
