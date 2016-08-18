@@ -19,11 +19,16 @@ TicTacToe in C++
 
 10) Designing a generic n*n TicTacToe where the user selects the value of n, any way will be limited to certain value between 2 and 5.(Trivial)
 
+9) Including Levels in game and asking user to select the level he wish to play.(18th August 2016)
+
+
                                             ******** TicTacToe *********         
 
 
 
-9) Including Levels in game and asking user to select the level he wish to play.
+10) Need to improve Time Complexity of 4*4 TicTacToe..
+
+
 
 
  
